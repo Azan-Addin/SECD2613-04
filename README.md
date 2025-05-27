@@ -4,7 +4,7 @@ This is the official Github Repo for System Analysis and Design Course for Secti
 
 Link to each group's project repos:
 
-Group 1:
+Group 1:[https://github.com/leecinsiak/SAD-Group-1-Project]
 Group 2:
 Group 3:
 Group 4: 
