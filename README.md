@@ -6,7 +6,7 @@ Link to each group's project repos:
 
 Group 1:[https://github.com/leecinsiak/SAD-Group-1-Project]
 
-Group 2: [https://github.com/Joyce-Puyang/Group2_Project1_SAD_2024]
+Group 2: [https://github.com/Joyce-Puyang/Group2_Project1_SAD_20242025]
 
 Group 3:
 
