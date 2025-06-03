@@ -8,7 +8,7 @@ Group 1:[https://github.com/leecinsiak/SAD-Group-1-Project]
 
 Group 2: [https://github.com/Joyce-Puyang/Group2_Project1_SAD_20242025]
 
-Group 3:
+Group 3:[https://github.com/Aqmal72/SAD-Group-3-Project]
 
 Group 4: 
 
